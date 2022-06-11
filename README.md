@@ -1,8 +1,8 @@
-### Olá, eu sou o João! 👋
+### Olá, eu sou o Guilherme! 👋
 - 🔭 Análise e Desenvolvimento de Sistemas;
 - 🌱 Desenvolvedor web com foco em front-end;
 - 👯 Hard Skills => HTML, CSS, Javascript, React, Node
-- 🤔 21 anos
+- 🤔 20 anos
 ## Tools
 
 ### Back-end
