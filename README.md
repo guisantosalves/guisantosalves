@@ -20,7 +20,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-4479A1?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ### Mobile
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Realm](https://img.shields.io/badge/Realm-FFCA28?style=for-the-badge&logo=Realm&logoColor=black)
 
 
