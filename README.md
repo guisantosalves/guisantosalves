@@ -25,15 +25,6 @@
 ![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Realm](https://img.shields.io/badge/Realm-FFCA28?style=for-the-badge&logo=Realm&logoColor=black)
 
-
-![guisantosalves-contributions](https://activity-graph.herokuapp.com/graph?username=guisantosalves&theme=react-dark)
-<div align="center">
-  <a href="https://github.com/guisantosalves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guisantosalves&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisantosalves&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-
-
   <div> 
   <a href="https://www.instagram.com/guilh.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:workguisantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
