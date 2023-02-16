@@ -2,7 +2,7 @@
 - 🔭 Análise e Desenvolvimento de Sistemas;
 - 🌱 Desenvolvedor web com foco em front-end;
 - 👯 Hard Skills => HTML, CSS, Javascript, React, Node
-- 🤔 20 anos
+- 🤔 21 anos
 ## Tools
 
 ### Front-end
