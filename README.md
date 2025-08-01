@@ -1,8 +1,8 @@
 ### Olá, eu sou o Guilherme! 👋
 - 🔭 Análise e Desenvolvimento de Sistemas;
 - 🌱 Desenvolvedor web full stack;
-- 👯 Hard Skills => HTML, CSS, Javascript, React, Node, Java;
-- 🤔 22 anos;
+- 👯 Hard Skills => Spring, React e React Native;
+- 🤔 23 anos;
 ## Tools
 
 ### Front-end
