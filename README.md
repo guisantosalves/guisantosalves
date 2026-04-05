@@ -1,34 +1,106 @@
-### Olá, eu sou o Guilherme! 👋
-- 🌱 Software Engineer;
-- 24 anos;
-## Tools
+<div align="center">
 
-### Front-end
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+```
+╔════════════════════════════════════════════════════════════╗
+║  > SYSTEM BOOT ............................... [   OK   ]  ║
+║  > LOADING guisantosalves.exe ................ [   OK   ]  ║
+║  > CAFFEINE INJECTION ........................ [ ONLINE ]  ║
+║  > STATUS: SHIPPING CODE                                   ║
+╚════════════════════════════════════════════════════════════╝
+```
 
+# ☕ `guilherme.santos` // software_engineer.exe
 
-### Back-end
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-4479A1?style=for-the-badge&logo=Firebase&logoColor=white)
+![Visitors](https://komarev.com/ghpvc/?username=guisantosalves&label=VISITORS&color=ff00aa&style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-BREWING_COFFEE-ff6600?style=for-the-badge&logo=buymeacoffee&logoColor=white)
+![Mode](https://img.shields.io/badge/MODE-CYBERPUNK-00ffff?style=for-the-badge&logo=matrix&logoColor=black)
 
-### Mobile
-![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Realm](https://img.shields.io/badge/Realm-FFCA28?style=for-the-badge&logo=Realm&logoColor=black)
+</div>
 
-  <div> 
-  <a href="https://www.instagram.com/guilh.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:workguisantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
-  <a href="https://www.linkedin.com/in/guilherme-santos-1073b8201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> 
-  
-  
+---
 
- 
+## `> whoami`
+
+```ts
+const operator = {
+  handle:    "guisantosalves",
+  class:     "Software Engineer",
+  location:  "somewhere in the grid",
+  fuel:      "espresso ☕ // dark roast preferred",
+  mission:   "ship clean code, break nothing, stay caffeinated",
+  protocol:  "build → test → deploy → repeat",
+};
+```
+
+---
+
+## `> ./stack.sh --list`
+
+```
+$ tree ./stack --depth=2
+
+./stack
+├── backend/
+│   ├── spring-boot  ── java, apis, enterprise
+│   ├── nestjs       ── node, typescript, modular
+│   └── go           ── fast, concurrent, clean
+├── frontend/
+│   ├── react        ── spa, hooks, components
+│   └── typescript   ── types > runtime bugs
+├── mobile/
+│   ├── react-native ── cross-platform, native feel
+│   └── ionic        ── hybrid, web-first
+└── tools/
+    ├── docker       ── ship it in containers
+    ├── postgres     ── relational & reliable
+    └── git          ── version control always
+```
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/-JAVA-ff0080?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0a0a)
+![Spring](https://img.shields.io/badge/-SPRING_BOOT-00ff9f?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0a0a0a)
+![NestJS](https://img.shields.io/badge/-NESTJS-ff006e?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=0a0a0a)
+![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-00ffff?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0a0a)
+![React](https://img.shields.io/badge/-REACT-ff00ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0a0a0a)
+![ReactNative](https://img.shields.io/badge/-REACT_NATIVE-00ff9f?style=for-the-badge&logo=react&logoColor=white&labelColor=0a0a0a)
+![Ionic](https://img.shields.io/badge/-IONIC-ff0080?style=for-the-badge&logo=ionic&logoColor=white&labelColor=0a0a0a)
+![Go](https://img.shields.io/badge/-GO-00ffff?style=for-the-badge&logo=go&logoColor=white&labelColor=0a0a0a)
+
+</div>
+
+---
+
+## `> cat coffee.log`
+
+```
+[ 06:30 ] ☕ espresso #1     → boot sequence initiated
+[ 09:15 ] ☕ espresso #2     → debugging prod incident
+[ 11:40 ] ☕ americano       → code review marathon
+[ 14:20 ] ☕ cold brew       → architecture planning
+[ 16:55 ] ☕ espresso #3     → shipping the feature
+[ 19:10 ] ☕ decaf (lies)    → refactor time
+```
+
+> *"Coffee in, code out. Repeat until production."*
+
+## `> ./connect.sh --establish`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/guilherme-santos-1073b8201/)
+[![Email](https://img.shields.io/badge/-TRANSMIT_SIGNAL-ff00aa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:soliniuminfo@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GITHUB-00ffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a)](https://github.com/guisantosalves)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> connection established ✓
+> grab a coffee, let's build something ☕
+```
+
+</div>
